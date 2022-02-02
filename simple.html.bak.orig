@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2014 Git. Training
+<<<<<<< HEAD
+	Some silly changes
+=======
+	Adding changes before rebasing conflicts
+>>>>>>> 7ec9147 (fb adding  some trouble to simple.html)
 -->
 <head>
-	<title>Lots of trouble, in a little repo</title>
+	<title>A Very Respectful Website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -15,12 +20,13 @@
 </head>
 <body>
 	<main class="container">
+	<!-- Content Goes Here -->
 		<p>
 			I'm not sure what will go here but I'm sure cool things will come here.
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; 2014 Git Training, All Right Reserved.</p>
+		<p>&copy; Canberk Ustaoglu 2014</p>
 	</footer>
 </body>
 </html>
